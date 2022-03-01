@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98aabaca7e1fbee125113834f71f17324f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c78ee0e3b2104510dc7b23eff50fd574"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9845e0bbeb41fd5ae5e88b8f80854d7f80"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bae6d68d7f3231beeecc358745058ca9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b9d83c36e85da1fe1c0a616d4a8fe09a"
+    }
+  ],
+  "containerPath" : "/Users/atheerothman/DateToString/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/atheerothman/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/atheerothman/Library/Developer/Xcode/DerivedData/Pods-fdqsslkkkrssqpatuhsdposuwfij/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/atheerothman/Library/Developer/Xcode/DerivedData/Pods-fdqsslkkkrssqpatuhsdposuwfij/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

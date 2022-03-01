@@ -1,0 +1,27 @@
+PODS:
+  - DateToString (0.1.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - DateToString (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DateToString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DateToString: be374695f9a502cb0fe05801a2c6dff8f7f0fdc9
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 45d8f115f0c6f1ec1ae6ff276396f2fd74103c15
+
+COCOAPODS: 1.11.2

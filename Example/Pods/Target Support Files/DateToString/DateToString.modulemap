@@ -1,0 +1,6 @@
+framework module DateToString {
+  umbrella header "DateToString-umbrella.h"
+
+  export *
+  module * { export * }
+}

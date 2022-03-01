@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+DateToString in Pods, no dependencies
+Nimble in Pods, no dependencies
+Pods-DateToString_Example in Pods, depends on:
+DateToString in Pods (explicit)
+Quick in Pods, no dependencies
+Pods-DateToString_Tests in Pods, depends on:
+Nimble in Pods (explicit)
+Pods-DateToString_Example in Pods (explicit)
+Quick in Pods (explicit)
